@@ -1,0 +1,6 @@
+I have started this document to discuss the GitHub workflow.
+If you have a question, add it to the end of the text and commit to a new branch, then send a pull request so that the team can discuss the question. The answer will then be appended to this document in a new line and the brnach merged and deleted.
+
+This is both a way to get general questions answered and to practice the workflow!
+
+Question: Was the tutorial useful?
